@@ -1,5 +1,5 @@
 "use client"
-
+// https://www.youtube.com/watch?v=F1vMc5LEDi4
 import Image from "next/image";
 import Navebar from "./component/Navbar";
 import { useSession } from "next-auth/react";
